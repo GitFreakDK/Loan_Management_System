@@ -1,0 +1,33 @@
+Loan_ID,Customer_ID,ApplicantIncome,CoapplicantIncome,Property_Area,Loan_Status,Customer_Criteria,Interest_Rate,loanamount,loan_amount_term,cibil_score,cibil_score_status,monthly_interest_amount,annual_interest_amount,Customer_ID,Customer_name,Gender,Age,Married,Education,Self_Employed,Loan_Id,Region_id
+LP001027,IP43012,2500,1840,Urban,Y,Low_Class_Customer,5.0%,109,360,384,Penalty_Customer,0,5,IP43012,"Sandra Flanagan",Male,19,Yes,Graduate,NULL,LP001027,13.4
+LP001041,IP43020,2600,3500,Urban,Y,Low_Class_Customer,5.0%,115,0,537,Penalty_Customer,0,6,IP43020,"Ruben Ausman",Male,66,Yes,Graduate,NULL,LP001041,13.2
+LP001052,IP43025,3717,2925,Semiurban,N,Low_Class_Customer,2.5%,151,360,79,Penalty_Customer,0,4,IP43025,"Darren Powers",Male,31,Yes,Graduate,NULL,LP001052,13.3
+LP001087,IP43030,3750,2083,Semiurban,Y,Low_Class_Customer,2.5%,120,360,620,Penalty_Customer,0,3,IP43030,"Brendan Sweed",Female,29,No,Graduate,NULL,LP001087,13.2
+LP001091,IP43031,4166,3369,Urban,N,Low_Class_Customer,5.0%,201,360,972,High_Cibil_Score,1,10,IP43031,"Karen Daniels",Male,18,Yes,Graduate,NULL,LP001091,13.2
+LP001370,IP43108,7333,0,Rural,N,Middle_Class_Customer,7.0%,120,360,550,Penalty_Customer,1,8,IP43108,"Ken Lonsdale",Male,48,No,"Not Graduate",NULL,LP001370,13.3
+LP001387,IP43112,2929,2333,Semiurban,Y,Low_Class_Customer,2.5%,139,360,680,Penalty_Customer,0,3,IP43112,"Delfina Latchford",Female,41,Yes,Graduate,NULL,LP001387,13.4
+LP001398,IP43115,5050,0,Semiurban,Y,Middle_Class_Customer,7.0%,118,360,278,Penalty_Customer,1,8,IP43115,"Dorris liebe",Male,63,No,Graduate,NULL,LP001398,13.3
+LP001546,IP43159,2980,2083,Rural,Y,Low_Class_Customer,3.0%,120,360,424,Penalty_Customer,0,4,IP43159,"Dean Katz",Male,30,No,Graduate,NULL,LP001546,13.4
+LP001581,IP43171,1820,1769,Rural,Y,Low_Class_Customer,3.0%,95,360,258,Penalty_Customer,0,3,IP43171,"Caroline Jumper",Male,70,Yes,"Not Graduate",NULL,LP001581,13.2
+LP001732,IP43219,5000,0,Semiurban,N,Low_Class_Customer,7.0%,72,360,854,No_Penalty,0,5,IP43219,"Greg Tran",Male,57,Yes,Graduate,NULL,LP001732,13.3
+LP001768,IP43232,3716,0,Rural,Y,Low_Class_Customer,3.0%,42,180,414,Penalty_Customer,0,1,IP43232,"Dianna Vittorini",Male,35,Yes,Graduate,NULL,LP001768,13.2
+LP001786,IP43237,5746,0,Urban,N,Middle_Class_Customer,7.0%,255,360,392,Penalty_Customer,1,18,IP43237,"Theone Pippenger",Male,42,Yes,Graduate,NULL,LP001786,13.4
+LP001883,IP43269,3418,0,Rural,N,Low_Class_Customer,3.0%,135,360,732,Penalty_Customer,0,4,IP43269,"Naresj Patel",Female,20,No,Graduate,NULL,LP001883,13.2
+LP001949,IP43296,4416,1250,Urban,Y,Low_Class_Customer,5.0%,110,360,702,Penalty_Customer,0,6,IP43296,"Anthony Johnson",Male,51,Yes,Graduate,NULL,LP001949,13.2
+LP002101,IP43334,63337,0,Urban,Y,A_Grade_Customer,7.0%,490,180,555,Penalty_Customer,3,34,IP43334,"Maribeth Schnelling",Male,38,Yes,Graduate,NULL,LP002101,13.3
+LP002110,IP43337,5250,688,Rural,Y,Middle_Class_Customer,7.0%,160,360,389,Penalty_Customer,1,11,IP43337,"Bill Eplett",Male,21,Yes,Graduate,NULL,LP002110,13.3
+LP002128,IP43345,2583,2330,Rural,Y,Low_Class_Customer,3.0%,125,360,453,Penalty_Customer,0,4,IP43345,"Catherine Glotzbach",Male,67,Yes,Graduate,NULL,LP002128,13.4
+LP002209,IP43375,2764,1459,Urban,Y,Low_Class_Customer,5.0%,110,360,697,Penalty_Customer,0,6,IP43375,"Noel Staavos",Female,27,No,Graduate,NULL,LP002209,13.3
+LP002226,IP43381,3333,2500,Semiurban,Y,Low_Class_Customer,2.5%,128,360,887,No_Penalty,0,3,IP43381,"Charles McCrossin",Male,46,Yes,Graduate,NULL,LP002226,13.3
+LP002237,IP43386,3667,0,Urban,Y,Low_Class_Customer,5.0%,113,180,52,Penalty_Customer,0,6,IP43386,"Chad Cunningham",Male,66,No,Graduate,NULL,LP002237,13.3
+LP002319,IP43412,6256,0,Urban,Y,Middle_Class_Customer,7.0%,160,360,842,No_Penalty,1,11,IP43412,"Greg Matthias",Male,69,Yes,Graduate,NULL,LP002319,13.2
+LP002386,IP43433,12876,0,Semiurban,Y,B_Grade_Customer,7.0%,405,360,642,Penalty_Customer,2,28,IP43433,"Evan Bailliet",Male,65,No,Graduate,NULL,LP002386,13.2
+LP002435,IP43448,3539,1376,Rural,N,Low_Class_Customer,3.0%,55,360,837,No_Penalty,0,2,IP43448,"Harry Marie",Male,67,Yes,Graduate,NULL,LP002435,13.4
+LP002489,IP43464,5191,0,Semiurban,Y,Middle_Class_Customer,7.0%,132,360,214,Penalty_Customer,1,9,IP43464,"Pauline Webber",Female,48,No,"Not Graduate",NULL,LP002489,13.2
+LP002502,IP43469,210,2917,Semiurban,Y,Low_Class_Customer,2.5%,98,360,71,Penalty_Customer,0,2,IP43469,"Nicole Hansen",Female,42,Yes,"Not Graduate",NULL,LP002502,13.3
+LP002732,IP43536,2550,2042,Rural,Y,Low_Class_Customer,3.0%,126,360,215,Penalty_Customer,0,4,IP43536,"Jill Fjeld",Male,29,No,"Not Graduate",NULL,LP002732,13.3
+LP002753,IP43543,3652,0,Semiurban,Y,Low_Class_Customer,2.5%,95,360,763,No_Penalty,0,2,IP43543,"Katharine Harms",Female,34,No,Graduate,NULL,LP002753,13.2
+LP002888,IP43580,3182,2917,Urban,Y,Low_Class_Customer,5.0%,161,360,491,Penalty_Customer,1,8,IP43580,"Richard Bierner",Male,37,No,Graduate,NULL,LP002888,13.3
+LP002949,IP43601,416,41667,Urban,N,Low_Class_Customer,5.0%,350,180,760,No_Penalty,1,18,IP43601,"Jim Karlsson",Female,34,No,Graduate,NULL,LP002949,13.2
+LP002950,IP43602,2894,2792,Rural,Y,Low_Class_Customer,3.0%,155,360,67,Penalty_Customer,0,5,IP43602,"Patrick Jones",Male,19,Yes,"Not Graduate",NULL,LP002950,13.2
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,IP43096,"Logan Currie",Male,67,No,Graduate,NULL,LP001326,13.3

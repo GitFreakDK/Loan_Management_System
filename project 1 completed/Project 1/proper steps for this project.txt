@@ -1,0 +1,53 @@
+**Loan Management System - Project Flow**
+
+### **Step 1: Define Customer Criteria**
+- Use `CASE` statements to categorize customers based on income.
+
+### **Step 2: Determine Interest Per Month**
+- Use `CASE` statements to assign interest rates (do not include `%` initially).
+
+### **Step 3: Create New Customer Table**
+- Combine Steps 1 and 2 to build a new table: `new_customer_det`.
+
+### **Step 4: Import and Filter Loan Status Data**
+- Import loan status data.
+- Create a separate table: `loan_cibil_score_status_details`.
+- Set `loan_amount = NULL` for loans still in processing.
+- Apply `CIBIL score` criteria from the DOCX file.
+
+### **Step 5: Remove Invalid Records**
+- Delete customers who:
+  - Have a rejected `CIBIL score`.
+  - Have `loan_amount = 'loan still processing'`.
+- Convert `loan_amount` to an integer data type.
+
+### **Step 6: Join Customer and Loan Data**
+- Use `INNER JOIN` to merge `customer_income_status` with `loan_cibil_score_status_details`.
+
+### **Step 7: Calculate Interest Amounts**
+- Compute `monthly_interest` and `annual_interest`.
+- Store results in `customer_interest_analysis`.
+
+### **Step 8: Import and Update Customer Information**
+- Import `customer_info`.
+- Use a **single query** with `CASE` to update `gender` and `age`.
+
+### **Step 9: Integrate Geographical Data**
+- Import `country_state` and `region_info` tables.
+
+### **Step 10: Generate Final Results**
+#### **Result 1: Full Data Merge**
+- Join the 4 main tables (`customer_interest_analysis`, `customer_info`, `country_state`, `region_info`) without duplicate columns.
+
+#### **Result 2: Identify Mismatches**
+- Use joins to find inconsistencies in data.
+
+#### **Result 3: High CIBIL Score Customers**
+- Filter records based on high CIBIL scores using an `INNER JOIN`.
+
+#### **Result 4: Filter Customer Types**
+- Extract home, office, and corporate customers using an `INNER JOIN`.
+
+### **Step 11: Store Results as Procedures**
+- Save all four results as stored procedures for easy access and execution.
+

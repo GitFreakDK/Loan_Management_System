@@ -1,0 +1,33 @@
+Customer_ID,Customer_name,Gender,Age,Married,Education,Self_Employed,Loan_Id,Region_id,Customer_id,Load_ID,Customer_name,Region_id,Postal_Code,Segment,State
+IP43012,"Sandra Flanagan",Male,19,Yes,Graduate,NULL,LP001027,13.4,IP43012,LP001027,"Sandra Flanagan",13.4,19140,Consumer,Pennsylvania
+IP43020,"Ruben Ausman",Male,66,Yes,Graduate,NULL,LP001041,13.2,IP43020,LP001041,"Ruben Ausman",13.2,90049,Corporate,California
+IP43025,"Darren Powers",Male,31,Yes,Graduate,NULL,LP001052,13.3,IP43025,LP001052,"Darren Powers",13.3,47150,Consumer,Indiana
+IP43030,"Brendan Sweed",Female,29,No,Graduate,NULL,LP001087,13.2,IP43030,LP001087,"Brendan Sweed",13.2,85234,Corporate,Arizona
+IP43031,"Karen Daniels",Male,18,Yes,Graduate,NULL,LP001091,13.2,IP43031,LP001091,"Karen Daniels",13.2,22153,Consumer,Virginia
+IP43096,"Logan Currie",Male,67,No,Graduate,NULL,LP001326,13.3,IP43096,LP001326,"Logan Currie",13.3,75220,Consumer,Texas
+IP43108,"Ken Lonsdale",Male,48,No,"Not Graduate",NULL,LP001370,13.3,IP43108,LP001370,"Ken Lonsdale",13.3,60610,Consumer,Illinois
+IP43112,"Delfina Latchford",Female,41,Yes,Graduate,NULL,LP001387,13.4,IP43112,LP001387,"Delfina Latchford",13.4,10024,Consumer,"New York"
+IP43115,"Dorris liebe",Male,63,No,Graduate,NULL,LP001398,13.3,IP43115,LP001398,"Dorris liebe",13.3,77506,Corporate,Texas
+IP43159,"Dean Katz",Male,30,No,Graduate,NULL,LP001546,13.4,IP43159,LP001546,"Dean Katz",13.4,19140,Corporate,Pennsylvania
+IP43171,"Caroline Jumper",Male,70,Yes,"Not Graduate",NULL,LP001581,13.2,IP43171,LP001581,"Caroline Jumper",13.2,92646,Consumer,California
+IP43219,"Greg Tran",Male,57,Yes,Graduate,NULL,LP001732,13.3,IP43219,LP001732,"Greg Tran",13.3,77070,Consumer,Texas
+IP43232,"Dianna Vittorini",Male,35,Yes,Graduate,NULL,LP001768,13.2,IP43232,LP001768,"Dianna Vittorini",13.2,80219,Consumer,Colorado
+IP43237,"Theone Pippenger",Male,42,Yes,Graduate,NULL,LP001786,13.4,IP43237,LP001786,"Theone Pippenger",13.4,19134,Consumer,Pennsylvania
+IP43269,"Naresj Patel",Female,20,No,Graduate,NULL,LP001883,13.2,IP43269,LP001883,"Naresj Patel",13.2,22980,Consumer,Virginia
+IP43296,"Anthony Johnson",Male,51,Yes,Graduate,NULL,LP001949,13.2,IP43296,LP001949,"Anthony Johnson",13.2,33710,Corporate,Florida
+IP43334,"Maribeth Schnelling",Male,38,Yes,Graduate,NULL,LP002101,13.3,IP43334,LP002101,"Maribeth Schnelling",13.3,48227,Consumer,Michigan
+IP43337,"Bill Eplett",Male,21,Yes,Graduate,NULL,LP002110,13.3,IP43337,LP002110,"Bill Eplett",13.3,49201,"Home Office",Michigan
+IP43345,"Catherine Glotzbach",Male,67,Yes,Graduate,NULL,LP002128,13.4,IP43345,LP002128,"Catherine Glotzbach",13.4,19120,"Home Office",Pennsylvania
+IP43375,"Noel Staavos",Female,27,No,Graduate,NULL,LP002209,13.3,IP43375,LP002209,"Noel Staavos",13.3,60610,Corporate,Illinois
+IP43381,"Charles McCrossin",Male,46,Yes,Graduate,NULL,LP002226,13.3,IP43381,LP002226,"Charles McCrossin",13.3,78521,Consumer,Texas
+IP43386,"Chad Cunningham",Male,66,No,Graduate,NULL,LP002237,13.3,IP43386,LP002237,"Chad Cunningham",13.3,47201,"Home Office",Indiana
+IP43412,"Greg Matthias",Male,69,Yes,Graduate,NULL,LP002319,13.2,IP43412,LP002319,"Greg Matthias",13.2,98105,Consumer,Washington
+IP43433,"Evan Bailliet",Male,65,No,Graduate,NULL,LP002386,13.2,IP43433,LP002386,"Evan Bailliet",13.2,28403,Consumer,"North Carolina"
+IP43448,"Harry Marie",Male,67,Yes,Graduate,NULL,LP002435,13.4,IP43448,LP002435,"Harry Marie",13.4,19120,Corporate,Pennsylvania
+IP43464,"Pauline Webber",Female,48,No,"Not Graduate",NULL,LP002489,13.2,IP43464,LP002489,"Pauline Webber",13.2,40475,Corporate,Kentucky
+IP43469,"Nicole Hansen",Female,42,Yes,"Not Graduate",NULL,LP002502,13.3,IP43469,LP002502,"Nicole Hansen",13.3,75061,Corporate,Texas
+IP43536,"Jill Fjeld",Male,29,No,"Not Graduate",NULL,LP002732,13.3,IP43536,LP002732,"Jill Fjeld",13.3,75081,Consumer,Texas
+IP43543,"Katharine Harms",Female,34,No,Graduate,NULL,LP002753,13.2,IP43543,LP002753,"Katharine Harms",13.2,42104,Corporate,Kentucky
+IP43580,"Richard Bierner",Male,37,No,Graduate,NULL,LP002888,13.3,IP43580,LP002888,"Richard Bierner",13.3,63116,Consumer,Missouri
+IP43601,"Jim Karlsson",Female,34,No,Graduate,NULL,LP002949,13.2,IP43601,LP002949,"Jim Karlsson",13.2,98115,Consumer,Washington
+IP43602,"Patrick Jones",Male,19,Yes,"Not Graduate",NULL,LP002950,13.2,IP43602,LP002950,"Patrick Jones",13.2,37130,Corporate,Tennessee

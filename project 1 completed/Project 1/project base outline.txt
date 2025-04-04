@@ -1,0 +1,33 @@
+1st customer criteria (case end)
+
+2nd interest per month (don't add "%" initially) (case end)
+
+--> build new table using 1st and 2nd named as new_customer_det
+
+3rd loan status import use trigger to filter 
+
+--> (create table separately loan_cibil_score_status_details for clear loan_amount where null = 'loan still processing' and cibil_score_status refer docx for criteria)
+
+then filter by 
+
+--> (delete customers who got rejected by cibil_score_status and loan_amount = 'loan still processing') 
+
+--> after this change loan_amount into interger data type.
+
+4th inner join customer_income_status and loan_cibil_score_status_details.
+
+5th calculate monthly interest and annual interest then create all the above table named customer_interest_analysis.
+
+6th import customer_info and update with given datas in the main tables xsls use case end for update gender and for age. should be in single query update.
+
+7th import final two tables country_state and region_info table.
+
+8th result 1 join all the tables  (customer_interest_analysis, customer_info, country_state and region_info)[4 main tables] without repeating columns.
+
+result 2 find mismatch details using joins
+
+result 3 filter high cibil score by inner joined 4 main tables.
+
+result 4 filter home office and corporate by inner joined 4 main tables.
+
+--> store 4 results as procedure.
